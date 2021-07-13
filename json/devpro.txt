@@ -1,0 +1,15 @@
+﻿{
+  "web-dev-profile" : {
+    "web-dev": [
+      {
+       "github": ["Whitehawk2015","https://github.com/Whitehawk2015"],
+       "name": ["Gavin","King"],
+       "pic": "https://ibb.co/cY1FNq3",
+       "major": "CIS(Managment)",
+       "gradyear": "2021",
+       "interest": "My main interest are in music and business. I also have an interest in MBTI. Dev wise I am not that interested but it is too late now to change majors.",
+       "must-know-web-dev":  "The guy making the video has sold out in the past four years using this as a paid ad for a website host. In the last video that I had already taken the quiz on there was alot less when it came to the recommendations although he doesnt actually recomend most of the new information. "
+      }
+      ]
+  }
+} 
